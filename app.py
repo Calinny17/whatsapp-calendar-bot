@@ -77,6 +77,9 @@ def verify_webhook():
     mode = request.args.get("hub.mode")
     token = request.args.get("hub.verify_token")
     challenge = request.args.get("hub.challenge")
+    
+    print("Longitud VERIFY_TOKEN:", len(VERIFY_TOKEN))
+    print("Longitud TOKEN RECIBIDO:", len(token) if token else 0)
 
     if mode == "subscribe" and token == VERIFY_TOKEN:
 
