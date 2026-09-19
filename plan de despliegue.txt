@@ -1,0 +1,19 @@
+1. Preparar proyecto para producción       ← AHORA
+        ↓
+2. Preparar requirements.txt
+        ↓
+3. Revisar .gitignore y secretos
+        ↓
+4. Subir proyecto a GitHub
+        ↓
+5. Crear Web Service en Render
+        ↓
+6. Configurar variables de entorno
+        ↓
+7. Resolver credenciales de Google OAuth
+        ↓
+8. Obtener URL pública de Render
+        ↓
+9. Cambiar webhook de Meta
+        ↓
+10. Probar WhatsApp → Render → Calendar

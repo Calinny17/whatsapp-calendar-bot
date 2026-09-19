@@ -1,0 +1,24 @@
+Estado actual de la V1
+
+Yo consideraría que la parte central de la V1 ya está funcional.
+
+Ya tenemos:
+
+✅ WhatsApp conectado
+✅ Webhook funcionando
+✅ Flask funcionando
+✅ Google Calendar conectado
+✅ Creación de eventos
+✅ Lenguaje natural
+✅ Fechas relativas
+✅ Detección de horas
+✅ AM/PM
+✅ a.m. / p.m.
+✅ mañana/tarde/noche
+✅ mediodía
+✅ medianoche
+✅ detección de horas ambiguas
+✅ mensajes de error amigables
+✅ confirmación mediante WhatsApp
+✅ pruebas locales
+✅ pruebas reales de extremo a extremo
